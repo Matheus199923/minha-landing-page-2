@@ -1,0 +1,98 @@
+body {
+background-color:black;
+}
+
+header{
+display:flex;
+flex-direction: row;
+justify-content: space-between;;
+align-items: center;
+}
+title{
+flex-direction: column;
+}
+
+li{
+margin: 20px;
+
+}
+
+
+
+h1{
+font-weight: 10;
+ }
+
+a{
+
+color: beige;
+}
+
+h1{
+color: blueviolet;
+}
+
+p{
+    color: beige;
+}
+h2{
+    color: blueviolet;
+}
+ul{
+    color: beige;
+}
+
+a :hover{
+    color: blue;
+    transition: 0.3s all;
+}
+
+ul{
+    border: px;
+    color: blueviolet;
+}
+
+      ol{
+        color: beige;
+      }
+
+    ul{
+    display: flex;
+    gap: 30px;
+    border-style:double ;
+
+    
+    }
+
+ 
+
+ a{
+    text-decoration: none;
+ }
+
+ img{
+    border: 3px solid blueviolet;
+ }
+
+
+ header img{
+    border-radius: 50%;
+ }
+
+ body {
+padding:3%;
+    height: 100vh;
+    background-image: url(fundo\ 5.jpg); 
+    background-size:cover ; 
+    background-position:center; 
+    background-repeat:no-repeat;
+}
+
+    
+   
+    
+
+
+
+
+ 
